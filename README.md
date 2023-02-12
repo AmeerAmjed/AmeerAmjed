@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**AmeerAmjed/AmeerAmjed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey devs 👋
 
-Here are some ideas to get you started:
+I enjoy building great software and helping others do the same.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn Ameer Amjed](https://img.shields.io/badge/LinkedIn-@AmeerAmjed-blue?style=for-the-badge)](https://www.linkedin.com/in/AmeerAmjed/)
+
+
+```kotlin
+object Ameer {
+ val name = "Ameer Amjed"
+ val acknowledgements = "Software Developer"
+ 
+ val primarySkillset = "Android"
+ val languages = listOf("Kotlin", "Dart", "Javascript")
+
+ val contact = "@AmeerAmjed".apply {
+   linkedin = this
+ }
+
+}
+```
+
