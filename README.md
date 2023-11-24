@@ -10,7 +10,7 @@ I enjoy building great software and helping others do the same.
 ```kotlin
 object Ameer {
  val name = "Ameer Amjed"
- val acknowledgements = "Software Developer"
+ val acknowledgements = "Mobile Developer"
  
  val primarySkillset = "Android"
  val languages = listOf("Kotlin", "Dart", "Javascript")
