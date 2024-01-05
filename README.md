@@ -1,7 +1,7 @@
 
 ### Hey devs 👋
 
-I enjoy building great software and helping others do the same.
+I enjoy building great software and helping others others in doing so as well.
 
 [![LinkedIn Ameer Amjed](https://img.shields.io/badge/LinkedIn-@AmeerAmjed-blue?style=for-the-badge)](https://www.linkedin.com/in/AmeerAmjed/)
 <br>
